@@ -9,7 +9,6 @@ import numpy as np
 import sys,os
 sys.path.append(os.getcwd())
 from utils.load_data3_1_roberta import *
-from utils.node import * # type: ignore
 import warnings
 from sklearn.metrics import precision_recall_fscore_support as score
 from sklearn.metrics import accuracy_score
