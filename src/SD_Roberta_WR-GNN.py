@@ -211,8 +211,8 @@ class RobertaClassifier(nn.Module):
         super(RobertaClassifier, self).__init__()
         self.roberta = RobertaModel.from_pretrained('roberta-base', output_hidden_states=True)
         #Freeze all parameters first
-        for param in self.roberta.parameters():
-            param.requires_grad = False
+        #for param in self.roberta.parameters():
+        #    param.requires_grad = False
 
         # # # Unfreeze embeddings (optional, but usually needed)
         # for param in self.roberta.embeddings.parameters():
