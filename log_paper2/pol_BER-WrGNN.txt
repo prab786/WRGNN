@@ -1,0 +1,6 @@
+Total_Test_Accuracy: 0.8744|Prec_Macro: 0.8878|Rec_Macro: 0.8744|F1_Macro: 0.8733
+RestyleA_Test_Accuracy: 0.8422|Prec_Macro: 0.8544|Rec_Macro: 0.8422|F1_Macro: 0.8405
+RestyleB_Test_Accuracy: 0.7833|Prec_Macro: 0.8100|Rec_Macro: 0.7833|F1_Macro: 0.7780
+RestyleC_Test_Accuracy: 0.8467|Prec_Macro: 0.8590|Rec_Macro: 0.8467|F1_Macro: 0.8449
+RestyleD_Test_Accuracy: 0.7878|Prec_Macro: 0.8155|Rec_Macro: 0.7878|F1_Macro: 0.7823
+
